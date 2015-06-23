@@ -1,2 +1,2 @@
-# community-deduction
-Community deduction in Social networks using Spectral clustering
+# community-detection
+Community detection in Social networks using Spectral clustering
